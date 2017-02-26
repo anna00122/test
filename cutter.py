@@ -49,3 +49,5 @@ for i in init:
   cc += 1
 
 workbook.save("test3.xlsx")
+
+print("나는 바보다")
